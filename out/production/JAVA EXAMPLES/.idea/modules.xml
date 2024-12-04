@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FIFO QUEUE EXAMPLE/FIFO QUEUE EXAMPLE.iml" filepath="$PROJECT_DIR$/FIFO QUEUE EXAMPLE/FIFO QUEUE EXAMPLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA EXAMPLES.iml" filepath="$PROJECT_DIR$/.idea/JAVA EXAMPLES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List-Based Implementation/Linked List-Based Implementation.iml" filepath="$PROJECT_DIR$/Linked List-Based Implementation/Linked List-Based Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SORT EXAMPLE/SORT EXAMPLE.iml" filepath="$PROJECT_DIR$/SORT EXAMPLE/SORT EXAMPLE.iml" />
+    </modules>
+  </component>
+</project>
